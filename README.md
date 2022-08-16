@@ -34,7 +34,7 @@ Script For Attacking Wireless Connections Using Built-In Kali Tools
 
 ### Special Credits ❤️❤️
 
-- [Jankari Ki Duniya](https://github.com/jankarikiduniya): Dev Ulo
+- [Jankari Ki Duniya](https://github.com/jankarikiduniya)
 
 ### Support & Updates ❤️❤️
 
