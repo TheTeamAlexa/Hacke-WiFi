@@ -4,8 +4,6 @@
 
 Script For Attacking Wireless Connections Using Built-In Kali Tools
 
-<p align="center"><a href=""> <img src="https://img.shields.io/badge/Copy%20Paster%20Ki%20Gand%20Main%20Land-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
 <p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/3ea246f9100f19d77dd88.gif" width="300"></a></p>
 
 ### Asad– History
