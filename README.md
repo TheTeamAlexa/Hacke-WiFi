@@ -19,9 +19,7 @@ Script For Attacking Wireless Connections Using Built-In Kali Tools
 - pkg install php
 
 - pkg install curl
-
-- git clone https://github.com/jankarikiduniya/Hacke-WiFi
-
+git clone https://github.com/TheTeamAlexa/Hacke-WiFi
 - cd Hacke-WiFi
 
 - chmod +x *
